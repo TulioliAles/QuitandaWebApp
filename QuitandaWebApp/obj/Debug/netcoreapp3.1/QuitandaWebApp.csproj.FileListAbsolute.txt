@@ -161,3 +161,4 @@ C:\Users\219747\Documents\ADM\Projetos_Web\QuitandaWebApp\QuitandaWebApp\obj\Deb
 C:\Users\219747\Documents\ADM\Projetos_Web\QuitandaWebApp\QuitandaWebApp\obj\Debug\netcoreapp3.1\QuitandaWebApp.dll
 C:\Users\219747\Documents\ADM\Projetos_Web\QuitandaWebApp\QuitandaWebApp\obj\Debug\netcoreapp3.1\QuitandaWebApp.pdb
 C:\Users\219747\Documents\ADM\Projetos_Web\QuitandaWebApp\QuitandaWebApp\obj\Debug\netcoreapp3.1\QuitandaWebApp.genruntimeconfig.cache
+C:\Users\219747\Documents\ADM\Projetos_Web\QuitandaWebApp\QuitandaWebApp\obj\Debug\netcoreapp3.1\QuitandaWebApp.csproj.AssemblyReference.cache

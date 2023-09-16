@@ -14,10 +14,12 @@ namespace QuitandaWebApp.Models
 
         [Required(ErrorMessage = "O campo {0} é de preechimento obrigatório.")]
         [MaxLength(1000)]
+        [Display(Name = "Descrição")]
         public string Descricao { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é de preechimento obrigatório.")]
         [Column(TypeName = "decimal(18,2)")]
+        [Display(Name = "Preço")]
         public decimal Preco { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é de preechimento obrigatório.")]
